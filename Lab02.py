@@ -1,6 +1,6 @@
 def main() :
     name = "Professor Nedd"
-    print("We want to know if you like programming!")
+    print("Hello, I would like to get to know you!")
     print()
     print("Do you like programming {}?".format(name))
     answer = input()
